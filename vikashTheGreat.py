@@ -1,1 +1,2 @@
-import math
+thisset = {"apple", "banana", "cherry", "apple"}
+print(thisset)
